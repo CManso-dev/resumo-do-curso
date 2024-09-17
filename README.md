@@ -1,2 +1,3 @@
 # resumo-do-curso
 Esse repositorio contem algumas impressões minhas sobre o curso do DIO.
+Ola, para minha surpresa, não fazia ideia de como funcionava o Git e o GitHub, sempre ouvia os colegas falar sobre. Amo a area de TI, inclusive, conclui recentemente o curso de tecnologo em analise e desenvolvimento de sistemas no qual tive a primeira apresentação a plataforma Git no que se refere a publicação de codigos e o compartilhamento deles de modo privado ou publico. Até agora estou gostando muuito do curso na Dio, faço uma pequena observação no que se refere a inclusão social, sou defeciente auditivo, e senti falta da tradução em legendas noso videos em que os instrutores ensinam. Desde já obrigado por tudo até aqui Dio.
